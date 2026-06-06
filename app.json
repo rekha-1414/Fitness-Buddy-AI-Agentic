@@ -1,0 +1,16 @@
+{
+  "name": "Fitness Buddy AI",
+  "description": "An Agentic AI-powered fitness assistant built using IBM Granite Models, IBM watsonx.ai, and LangFlow.",
+  "version": "1.0.0",
+  "domain": "Healthcare and Fitness",
+  "projectTitle": "Fitness Buddy AI",
+  "technology": [
+    "LangFlow",
+    "IBM watsonx.ai",
+    "IBM Granite 4.0",
+    "RAG",
+    "FAISS",
+    "Python",
+    "IBM Cloud"
+  ]
+}
